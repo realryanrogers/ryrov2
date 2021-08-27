@@ -1,0 +1,1 @@
+export const flexWidth = "471px"
