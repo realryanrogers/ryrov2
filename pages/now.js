@@ -57,18 +57,11 @@ const Now = () => {
             Making this site (along with a backend database for my own stuff) using React, Next.js, Styled-Components, and Rails. I&apos;ve never been a
           front end guy, so this is an interesting experience.
         </p>
-        <h3>Learning German</h3>
-        <p>
-          Trying the{" "}
-          <a href="https://www.youtube.com/watch?v=95NgtNgmnWA" target="_blank" rel="noreferrer">
-            Nathaniel Drew method
-          </a>
-          . Just starting, so please don&apos;t ambush me with a conversation just yet...
-        </p>
+        
         <h3>Restarting My Writing Habit</h3>
         <p>Nothing I&apos;m ready to show for the moment.</p>
         <br />
-        <div className="updated">Updated Aug 27th, 2021</div>
+        <div className="updated">Updated Oct 15th, 2021</div>
       </NowContainer>
     </Layout>
   )
